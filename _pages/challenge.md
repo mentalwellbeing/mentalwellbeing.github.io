@@ -47,5 +47,3 @@ Coming soon !
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-<p> &nbsp </p>
