@@ -1,0 +1,11 @@
+- title: "Some task"
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
+  description: >
+    Some description.
+  authors: Wellbeing team
+  link:
+    url: https://example.com/
+    display:  Source
+  highlight: 1
+  news1: Some info 1
+  news2: Some info 2
