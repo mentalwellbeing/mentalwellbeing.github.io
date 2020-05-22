@@ -14,11 +14,14 @@ framework.
 
 1. Install docker
 2. Fork and clone this repo
-3. 
+3. Run docker in the cloned directory using this command. Note that if you
+run into a bundler error you may need to delete Gemfile.lock 
 
 ```
 docker run -it --rm --volume="$(pwd):/srv/jekyll" \
  --volume="$(pwd)/vendor/bundle:/usr/local/bundle" \
  --env JEKYLL_ENV=development -p 4000:4000 \
- jekyll/jekyll:4.0.1 jekyll serve
+ jekyll/minimal:4.0.1 jekyll serve
 ```
+4. Open http://localhost:4000/ in your browser. The site won't refresh but the 
+backend will update as you change your files.
