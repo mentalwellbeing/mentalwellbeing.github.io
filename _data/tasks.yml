@@ -1,16 +1,16 @@
 - title: "Perform One Act of Kindness"
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-description: >
-  Time: 20-60m+
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
+  description: >
+    Time: 20-60m+
 
   Instruction: In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one.
-authors: Wellbeing team
-link:
-  url: https://example.com/
-  display:  Acts of Kindness Examples
-highlight: 1
-news1: <a href="https://reference.com" target="_blank">Random acts of kindness for others boosts peer acceptance and wellbeing</a>
-news2: <a href="https://reference.com" target="_blank">Random acts of kindness can reduce inflammatory-related patterns of gene expression</a>
+  authors: Wellbeing team
+  link:
+    url: https://example.com/
+    display:  Acts of Kindness Examples
+  highlight: 1
+  news1: <a href="https://reference.com" target="_blank">Random acts of kindness for others boosts peer acceptance and wellbeing</a>
+  news2: <a href="https://reference.com" target="_blank">Random acts of kindness can reduce inflammatory-related patterns of gene expression</a>
 
 
 - title: "Choose a Self-Care Resource for Dealing with COVID-19"
