@@ -8,9 +8,10 @@ permalink: /challenge/
 
 # Challenge yourself
 
-Coming soon !
- 
-## Challenge tasks
+Choose one of these tasks for today and let us know tomorrow! 
+
+
+## Tasks:
 
 {% assign number_printed = 0 %}
 {% for task in site.data.tasks %}
