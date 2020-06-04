@@ -14,6 +14,8 @@ permalink: /challenge/kindness_act
 
 In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one 
 
+
+
 ## Around the house:
 - cooking dinner or a treat for people in your house or a neighbor
 - doing an extra chore (mop the kitchen floor or vacuum common space, clean bathroom)
@@ -40,7 +42,10 @@ In our daily lives, we all perform acts of kindness for others. You’re free to
 - spending extra time with your pet, eg. walking your dog an extra time
 
 
+
 The acts do not need to be for the same person, the person may or may not be aware of the act, and the act may or may not be similar to the acts listed above. Please do not perform any acts that may place yourself or others in danger and please follow your local social distancing legislation. 
+
+
 
 ## Evidence: 
 Studies have shown that performing random acts of kindness for others boosts peer acceptance and wellbeing [Lyubomirsky et al. (2005). Review of General Psychology; Layous et al. (2012) PLoS ONE] and can reduce inflammatory-related patterns of gene expression (Nelson-Coffey, Fritz, Lyubomirsky, & Cole, 2017). Indeed, some researchers have argued that the cross-cultural effects of prosocial spending (e.g., donating money to charity) on well-being constitutes a psychological universal (Aknin et al., 2013). 
