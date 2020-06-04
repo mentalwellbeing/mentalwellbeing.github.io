@@ -12,6 +12,8 @@ permalink: /challenge/kindness_act
 
 # Perform one Act of Kindness: 
 
+&nbsp;
+
 In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one 
 
 &nbsp;
@@ -54,3 +56,6 @@ The acts do not need to be for the same person, the person may or may not be awa
 
 ## Evidence: 
 Studies have shown that performing random acts of kindness for others boosts peer acceptance and wellbeing [Lyubomirsky et al. (2005). Review of General Psychology; Layous et al. (2012) PLoS ONE] and can reduce inflammatory-related patterns of gene expression (Nelson-Coffey, Fritz, Lyubomirsky, & Cole, 2017). Indeed, some researchers have argued that the cross-cultural effects of prosocial spending (e.g., donating money to charity) on well-being constitutes a psychological universal (Aknin et al., 2013). 
+
+&nbsp;
+&nbsp;
