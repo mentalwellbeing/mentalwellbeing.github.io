@@ -7,7 +7,7 @@ permalink: /challenge/kindness_act
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1496518908709-02b67989c265?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 1.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1496518908709-02b67989c265?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="40%" style="float: right; margin: 1.2%; min-width: 350px" />
 
 
 # Perform one Act of Kindness: 
