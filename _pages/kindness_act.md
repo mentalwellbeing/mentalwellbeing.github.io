@@ -6,6 +6,10 @@ sitemap: false
 permalink: /challenge/kindness_act
 ---
 
+
+<img src="{{ "/images/multi_sensory_integration.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="50%" style="float: right; margin: 0.8%; min-width: 350px" />
+
+
 # Perform one Act of Kindness: 
 
 In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one 
