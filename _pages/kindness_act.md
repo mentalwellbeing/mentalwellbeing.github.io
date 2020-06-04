@@ -6,7 +6,7 @@ sitemap: false
 permalink: /challenge/kindness_act
 ---
 
-# Instructions: 
+# Perform one Act of Kindness: 
 
 In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one 
 
