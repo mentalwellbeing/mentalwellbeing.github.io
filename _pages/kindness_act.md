@@ -54,7 +54,7 @@ The acts do not need to be for the same person, the person may or may not be awa
 &nbsp;
 &nbsp;
 
-## Evidence: 
+#### Evidence: 
 Studies have shown that performing random acts of kindness for others boosts peer acceptance and wellbeing [Lyubomirsky et al. (2005). Review of General Psychology; Layous et al. (2012) PLoS ONE] and can reduce inflammatory-related patterns of gene expression (Nelson-Coffey, Fritz, Lyubomirsky, & Cole, 2017). Indeed, some researchers have argued that the cross-cultural effects of prosocial spending (e.g., donating money to charity) on well-being constitutes a psychological universal (Aknin et al., 2013). 
 
 &nbsp;
