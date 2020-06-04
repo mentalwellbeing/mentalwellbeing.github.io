@@ -3,7 +3,7 @@ title: "Exercise"
 layout: gridlay
 excerpt: "Exercise"
 sitemap: false
-permalink: /challenge/kindness_act
+permalink: /challenge/exercise
 ---
 
 
