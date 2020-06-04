@@ -6,12 +6,12 @@
   Instruction: In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one.
   authors: Wellbeing team
   link:
-    url: https://example.com/
+    url: {{ site.url }}{{ site.baseurl }}/challenge/kindness_act
     display:  Acts of Kindness Examples
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Random acts of kindness for others boosts peer acceptance and wellbeing</a>
+  news2: <a href="https://reference.com" target="_blank">Random acts of kindness for others boosts peer acceptance and wellbeing</a>
   news2: <a href="https://reference.com" target="_blank">Random acts of kindness can reduce inflammatory-related patterns of gene expression</a>
-
+  news2: <a href="{{ site.url }}{{ site.baseurl }}/challenge">Challenge</a></li>
 
 - title: "Choose a Self-Care Resource for Dealing with COVID-19"
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
@@ -36,7 +36,7 @@
     url: https://example.com/
     display:  Suggestions for Being More Extroverted
   highlight: 1
-  news1: <a href="https://reference.com/" target="_blank">Extraverted behavior has shown to increase positive affect, feelings of connectedness and flow.</a>
+  news2: <a href="https://reference.com/" target="_blank">Extraverted behavior has shown to increase positive affect, feelings of connectedness and flow.</a>
 
 
 - title: "Meditation"
@@ -63,7 +63,7 @@
     url: https://example.com/
     display:  Exercise Suggestions and Videos
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">description of research</a>
+  news2: <a href="https://reference.com" target="_blank">description of research</a>
   news2: Some info 2
   
   
@@ -78,7 +78,7 @@
     url: https://example.com/
     display:  Instructions for the Gratitude Letter
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Studies have shown that writing heart-fealt gratitude letters can increase wellbeing.</a>
+  news2: <a href="https://reference.com" target="_blank">Studies have shown that writing heart-fealt gratitude letters can increase wellbeing.</a>
 
 
 - title: "Counting Blessings"
@@ -89,7 +89,7 @@
     There are many things in our lives, both large and small, that we might be grateful about. Think back over the events of the past week and write down up to five things that happened for which you are grateful or thankful.
   authors: Wellbeing team
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Studies have shown that counting blessings can increase wellbeing.</a>
+  news2: <a href="https://reference.com" target="_blank">Studies have shown that counting blessings can increase wellbeing.</a>
  
  
 - title: "Best Possible Self - Academic/Professional/Social/Health"
@@ -103,7 +103,7 @@
     url: https://example.com/
     display:  Instructions for Writing about One's Best Possible Self
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Studies have shown that writing about one’s best possible selve can enhance happiness</a>
+  news2: <a href="https://reference.com" target="_blank">Studies have shown that writing about one’s best possible selve can enhance happiness</a>
 
 
 - title: "Self-Affirmation "
@@ -117,7 +117,7 @@
     url: https://example.com/
     display:  List of Values
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Self affirmation has shown to reduce stress and improve wellbeing</a>
+  news2: <a href="https://reference.com" target="_blank">Self affirmation has shown to reduce stress and improve wellbeing</a>
   news2: Some info 2
   
   
@@ -146,6 +146,6 @@
     url: https://example.com/
     display:  Source
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">description of research</a>
+  news2: <a href="https://reference.com" target="_blank">description of research</a>
   news2: Some info 2
 
