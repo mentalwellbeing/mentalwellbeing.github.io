@@ -3,7 +3,7 @@ title: "Best Possible Self - Academic/Professional/Social/Health"
 layout: gridlay
 excerpt: "Best Possible Self - Academic/Professional/Social/Health"
 sitemap: false
-permalink: /challenge/self_affirmation
+permalink: /challenge/best_self
 ---
 
 
