@@ -124,15 +124,28 @@
   news2: Some info 2
   
   
-- title: "Therapy or Social Support"
+- title: "Therapy"
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
   description: >
     Time: 20-60m
     
-    Engage with an online community support group or schedule a virtual therapy session.
+    Schedule an online therapy session or connect with a counselor through text.
+  authors: Wellbeing team
+  link:
+    url: therapy
+    display:  Resources for Therapy and Councelling
+  highlight: 1
+  
+  
+- title: "Social Support"
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
+  description: >
+    Time: 20-60m
+    
+    Engage with friends and loved ones virtually through games or video chatting.
   authors: Wellbeing team
   link:
     url: social_support
-    display:  Free and Low Cost Resources for Therapy or Social Support 
+    display:  Online Social Gathering Resources
   highlight: 1
 
