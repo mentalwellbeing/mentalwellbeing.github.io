@@ -25,7 +25,7 @@ permalink: /challenge/extraverted
 &nbsp;
 
 ### Instructions:
-Please list 5 specific ideas below for how and when you will incorporate these types of behaviors into
+Please make a list of 5 specific ideas for how and when you will incorporate these types of behaviors into
 your daily life. For example, “When my friends or relatives are discussing something
 important to me, I will express my opinion.”
 
