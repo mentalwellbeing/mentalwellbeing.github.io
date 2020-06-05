@@ -3,7 +3,7 @@ title: "Best Possible Self - Academic/Professional/Social/Health"
 layout: gridlay
 excerpt: "Best Possible Self - Academic/Professional/Social/Health"
 sitemap: false
-permalink: /challenge/kindness_act
+permalink: /challenge/self_affirmation
 ---
 
 
@@ -18,18 +18,13 @@ permalink: /challenge/kindness_act
 
 &nbsp;
 
-***These are four activities, each one lined to academic life, work/professional life, social life, and a fourth linked to health, and the instructions will change slightly for each.***
+***These are four activities, one linked to academic life, one to work/professional life, one to social life, and a fourth  to health, and the instructions will change slightly for each.***
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-Choose just one area to focus on today. Now, for the next 10 minutes, please write continuously about what you imagined. Use the instructions below to help guide you through this process:
-
-1. Be as creative and imaginative as you desire.
-2. Use whatever writing style you please, but remember to imagine your ideal life in the FUTURE over the next 3 or 5 years. 
-3. Do not worry about perfect grammar and spelling. 
-4. Use as much detail as you want.
+Choose just one area to focus on today: 
 
 &nbsp;
 &nbsp;
@@ -49,7 +44,12 @@ Please take a moment to think about your best possible health. Imagine that ever
 &nbsp;
 &nbsp;
 
-***The acts do not need to be for the same person, the person may or may not be aware of the act, and the act may or may not be similar to the acts listed above. Please do not perform any acts that may place yourself or others in danger and please follow your local social distancing legislation.***
+***Now, for the next 10 minutes, please write continuously about what you imagined. Use the instructions below to help guide you through this process:
+
+1. Be as creative and imaginative as you desire.
+2. Use whatever writing style you please, but remember to imagine your ideal life in the FUTURE over the next 3 or 5 years. 
+3. Do not worry about perfect grammar and spelling. 
+4. Use as much detail as you want.***
 
 &nbsp;
 &nbsp;
