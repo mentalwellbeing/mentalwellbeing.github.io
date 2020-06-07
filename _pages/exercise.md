@@ -24,6 +24,9 @@ permalink: /challenge/exercise
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ### Get Moving:
@@ -37,8 +40,8 @@ permalink: /challenge/exercise
 
 ### Workout Videos (no equipment needed):
 - <a href="https://www.youtube.com/watch?v=AE_FeKpc_lk" target="_blank">Seniors and beginners</a>
-- <a href="https://www.youtube.com/watch?v=4sxcFJaQhJI" target="_blank">8m workout</a>
-- <a href="https://www.youtube.com/watch?v=oAPCPjnU1wA" target="_blank">20m workout</a>
+- <a href="https://www.youtube.com/watch?v=4sxcFJaQhJI" target="_blank">8m bodyweight workout</a>
+- <a href="https://www.youtube.com/watch?v=oAPCPjnU1wA" target="_blank">20m full body workout</a>
 - <a href="https://www.youtube.com/watch?v=h4FU4IF8wDA" target="_blank">50-75m indoor workouts for runners (Spanish)</a>
 
 
