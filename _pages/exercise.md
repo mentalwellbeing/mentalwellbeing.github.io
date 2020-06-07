@@ -7,7 +7,7 @@ permalink: /challenge/exercise
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1496518908709-02b67989c265?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1558366361-557c7a4b31b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 
 # Exercise: 
@@ -36,6 +36,7 @@ permalink: /challenge/exercise
 - 20m workout: https://www.youtube.com/watch?v=4sxcFJaQhJI
 - 50-75m indoor workouts for runners (Spanish): https://www.youtube.com/watch?v=h4FU4IF8wDA
 
+<img src="{{ "https://images.unsplash.com/photo-1583639687726-84d20638bf63?ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 ### Yoga Videos:
 - Yoga with Adriene series: https://www.youtube.com/user/yogawithadriene
