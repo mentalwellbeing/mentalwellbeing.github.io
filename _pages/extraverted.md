@@ -6,11 +6,9 @@ sitemap: false
 permalink: /challenge/extraverted
 ---
 
-
+<img src="{{ "https://images.unsplash.com/photo-1476611317561-60117649dd94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 # Be more extraverted:
-
-<img src="{{ "https://images.unsplash.com/photo-1476611317561-60117649dd94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 &nbsp;
 
