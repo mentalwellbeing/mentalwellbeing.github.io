@@ -7,7 +7,7 @@ permalink: /challenge/kindness_act
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1554355201-f096c2044135?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="35%" style="float: left; margin: 4.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1554355201-f096c2044135?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="25%" style="float: left; margin: 4.5%; min-width: 350px" />
 
 
 # Perform One Act of Kindness: 
@@ -39,7 +39,7 @@ permalink: /challenge/kindness_act
 - doing an activity with your family or housemates that they love to do
 
 
-<img src="{{ "https://images.unsplash.com/photo-1510775750777-c6a9f669e051?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1510775750777-c6a9f669e051?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 ### Contributing money:
 - donating to a charity (here are some “evidence-backed, thoroughly vetted, underfunded organizations”: https://www.givewell.org/charities/top-charities
