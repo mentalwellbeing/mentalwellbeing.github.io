@@ -13,7 +13,6 @@ permalink: /challenge/exercise
 
 &nbsp;
 
-&nbsp;
 
 *Time: 8-75m*
 
@@ -25,11 +24,10 @@ permalink: /challenge/exercise
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 &nbsp;
 &nbsp;
-&nbsp;
+
 
 
 ### Get Moving:
