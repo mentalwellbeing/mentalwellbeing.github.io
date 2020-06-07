@@ -10,7 +10,7 @@ permalink: /challenge/kindness_act
 
 # Perform One Act of Kindness: 
 
-<img src="{{ "https://images.unsplash.com/photo-1554355201-f096c2044135?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="20%" style="float: left; margin: 2.0%; min-width: 100px" />
+<img src="{{ "https://images.unsplash.com/photo-1554355201-f096c2044135?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
 
 &nbsp;
 &nbsp;
@@ -44,8 +44,7 @@ permalink: /challenge/kindness_act
 - doing an activity with your family or housemates that they love to do
 
 ### Contributing money:
-- donating to a charity (here are some “evidence-backed, thoroughly vetted, underfunded organizations”:https://www.givewell.org/charities/top-charities https://www.givewell.org/charities/top-charities
-- <a href="https://www.givewell.org/charities/top-charities" target="_blank">charities</a>
+- donating to a charity <a href="https://www.givewell.org/charities/top-charities" target="_blank">(here are some “evidence-backed, thoroughly vetted, underfunded organizations)</a>
 - shipping a family member something from their Amazon wish list
 - contributing to a coworker’s GoFundMe project
 
