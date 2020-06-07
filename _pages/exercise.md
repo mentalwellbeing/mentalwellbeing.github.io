@@ -29,10 +29,6 @@ permalink: /challenge/exercise
 &nbsp;
 &nbsp;
 
-&nbsp;
-&nbsp;
-&nbsp;
-
 
 ### Get Moving:
 - Walk
