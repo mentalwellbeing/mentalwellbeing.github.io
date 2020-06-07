@@ -13,6 +13,8 @@ permalink: /challenge/kindness_act
 <img src="{{ "https://images.unsplash.com/photo-1554355201-f096c2044135?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="25%" style="float: left; margin: 2.0%; min-width: 200px" />
 
 &nbsp;
+&nbsp;
+&nbsp;
 
 *Time: 20-60m+*
 
