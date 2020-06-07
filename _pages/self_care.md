@@ -24,7 +24,8 @@ permalink: /challenge/self_care
 &nbsp;
 &nbsp;
 
-- <a href="http://wisdom2conference.com/live" target="_blank"Not Losing Our Minds and Hearts When We Most Need Them: Mindfulness, Healing, and Wisdom in a Time of COVID-19 - Jon Kabat-Zinn</a>
+- <a href="https://reference.com" target="_blank">Random acts of kindness for others boosts peer acceptance and wellbeing</a>
+- <a href="http://wisdom2conference.com/live" target="_blank">Not Losing Our Minds and Hearts When We Most Need Them: Mindfulness, Healing, and Wisdom in a Time of COVID-19 - Jon Kabat-Zinn</a>
 - <a href="https://jackkornfield.com/compassion-in-the-time-of-coronavirus/" target="_blank"Compassion in the Time of Coronavirus - Jack Kornfield</a>
 - <a href="https://medium.com/@josefmata/quarantine-care-package-5a898ae0179a" target="_blank"Quarantine Care Package - José F. Mata, L.M.F.T.</a>
 - <a href="https://www.stitcher.com/podcast/healingjustice/healing-justice/e/52933965" target="_blank"Somatic Centering Practice - Sumitra Rajkumar</a>
