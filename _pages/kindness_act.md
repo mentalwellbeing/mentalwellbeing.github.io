@@ -44,7 +44,7 @@ permalink: /challenge/kindness_act
 - doing an activity with your family or housemates that they love to do
 
 ### Contributing money:
-- donating to a charity (here are some “evidence-backed, thoroughly vetted, underfunded organizations”: https://www.givewell.org/charities/top-charities
+- donating to a charity (here are some “evidence-backed, thoroughly vetted, underfunded organizations”:https://www.givewell.org/charities/top-charities
 - shipping a family member something from their Amazon wish list
 - contributing to a coworker’s GoFundMe project
 
