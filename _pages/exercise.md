@@ -13,6 +13,8 @@ permalink: /challenge/exercise
 
 &nbsp;
 
+&nbsp;
+
 *Time: 8-75m*
 
 &nbsp;
