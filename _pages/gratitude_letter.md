@@ -7,7 +7,7 @@ permalink: /challenge/gratitude_letter
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1496518908709-02b67989c265?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1543118141-8598f6bfbc0a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=976&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 
 # Gratitude Letter:
@@ -18,7 +18,9 @@ permalink: /challenge/gratitude_letter
 
 &nbsp;
 
-***Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act (or acts) for you for which you are extremely grateful. Think of the people – parents, children, spouses/partners, relatives, friends, neighbors, teachers, employers, and so on – who have been especially generous and thoughtful towards you. For example, you may feel grateful for a friend who was there for you when you needed them, or helped give you a new perspective on things when you were upset.***
+***Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act (or acts) for you for which you are extremely grateful. Think of the people – parents, children, spouses/partners, relatives, friends, neighbors, teachers, employers, and so on – who have been especially generous and thoughtful towards you.*** 
+
+***For example, you may feel grateful for a friend who was there for you when you needed them, or helped give you a new perspective on things when you were upset.***
 
 &nbsp;
 &nbsp;
