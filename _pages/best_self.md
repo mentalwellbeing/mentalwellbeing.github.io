@@ -7,11 +7,10 @@ permalink: /challenge/best_self
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1512099053734-e6767b535838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1528&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
-
-
 
 # Best Possible Self - Academic/Professional/Social/Health: 
+
+<img src="{{ "https://images.unsplash.com/photo-1512099053734-e6767b535838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1528&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 4.5%; min-width: 450px" />
 
 &nbsp;
 
