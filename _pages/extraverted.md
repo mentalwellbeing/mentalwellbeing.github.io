@@ -12,7 +12,7 @@ permalink: /challenge/extraverted
 
 &nbsp;
 
-*Time: up to 24hs*
+*Time: up to 24hrs*
 
 &nbsp;
 
