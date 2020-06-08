@@ -50,12 +50,12 @@ Please take a moment to think about your best possible health. Imagine that ever
 &nbsp;
 &nbsp;
 
-***Now, for the next 10 minutes, please write continuously about what you imagined. Use the instructions below to help guide you through this process:
+***Now, for the next 10 minutes, please write continuously about what you imagined. Use the instructions below to help guide you through this process:***
 
 1. Be as creative and imaginative as you desire.
 2. Use whatever writing style you please, but remember to imagine your ideal life in the FUTURE over the next 3 or 5 years. 
 3. Do not worry about perfect grammar and spelling. 
-4. Use as much detail as you want.***
+4. Use as much detail as you want.
 
 &nbsp;
 &nbsp;
