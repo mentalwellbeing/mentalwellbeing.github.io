@@ -6,7 +6,7 @@ sitemap: false
 permalink: /challenge/best_self
 ---
 
-<img src="{{ "https://images.unsplash.com/photo-1512099053734-e6767b535838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1528&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 4.5%; min-width: 450px" />
+<img src="{{ "https://images.unsplash.com/photo-1512099053734-e6767b535838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1528&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 3.5%; min-width: 450px" />
 
 
 # Best Possible Self:
@@ -35,7 +35,7 @@ Please take a moment to think about your best possible academic/work/socia life 
 Please take a moment to think about your best possible career. Imagine that everything has gone as well as it possibly could. Perhaps you have been able to obtain a new job or internship that will help you work towards your future career goals. Furthermore, you enjoy your day to day and find your work meaningful. Think of this as the realization of the best possible career preparation you could ever hope for yourself.
 
 
-<img src="{{ "https://images.unsplash.com/photo-1551639234-a230814e9a56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 4.5%; min-width: 450px" />
+<img src="{{ "https://images.unsplash.com/photo-1551639234-a230814e9a56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80" }}" class="img-responsive" width="35%" style="float: left; margin: 3.5%; min-width: 350px" />
 
 ### Social:
 Please take a moment to think about your best possible social life. Imagine that everything has gone as well as it possibly could. Perhaps you have developed good relationships with your friends at your work or university. Furthermore, you may have gotten involved with extracurricular activities. Think of this as the realization of the best possible social life you could ever hope for yourself.
