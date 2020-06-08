@@ -7,7 +7,7 @@ permalink: /challenge/therapy
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1551847677-dc82d764e1eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1572726729207-a78d6feb18d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 
 # Therapy & Councelling: 
@@ -18,7 +18,7 @@ permalink: /challenge/therapy
 
 &nbsp;
 
-******
+***You can try reaching out once, or making it a weekly habit if you find the support helpful.***
 
 &nbsp;
 &nbsp;
@@ -31,10 +31,6 @@ permalink: /challenge/therapy
 ### Finding Local Therapists:
 - https://www.psychologytoday.com/us
 
-&nbsp;
-&nbsp;
-
-***You can try reaching out once, or making it a weekly habit if you find the support helpful.***
 
 &nbsp;
 &nbsp;
