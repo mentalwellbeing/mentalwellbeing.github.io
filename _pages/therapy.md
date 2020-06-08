@@ -29,7 +29,7 @@ permalink: /challenge/therapy
 - <a href="https://www.crisistextline.org/text-us/" target="_blank">Crisis Textline</a> (free text support during acute crisis)
 
 ### Finding Local Therapists:
--<a href="https://www.psychologytoday.com/us" target="_blank">Psychology Today Search Engine</a>
+- <a href="https://www.psychologytoday.com/us" target="_blank">Psychology Today Search Engine</a>
 
 
 &nbsp;
