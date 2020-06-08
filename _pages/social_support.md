@@ -25,12 +25,12 @@ permalink: /challenge/social_support
 &nbsp;
 
 ### Free video chatting platforms:
-- Zoom: https://zoom.us/pricing
-- Skype: https://www.skype.com/en/
+- <a href="https://zoom.us/pricing" target="_blank">Zoom</a>
+- <a href="https://www.skype.com/en/" target="_blank">Skype</a>
 
 ### Free Group Games:
-- Pictionary-esque Drawing Game: https://www.drawasaurus.org/
-- Codenames Word Guessing Game: https://codenames.game/
+- <a href="https://www.drawasaurus.org/" target="_blank">Pictionary-esque Drawing Game</a>
+- <a href="https://codenames.game/" target="_blank">Codenames Word Guessing Game</a>
 
 &nbsp;
 &nbsp;
