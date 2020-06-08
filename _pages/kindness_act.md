@@ -34,7 +34,7 @@ permalink: /challenge/kindness_act
 ### Related to work/school:
 - offering to help a friend with project, research or homework
 
-<img src="{{ "https://images.unsplash.com/photo-1510775750777-c6a9f669e051?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 4.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1587040273409-b0086dc9dea0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80" }}" class="img-responsive" width="45%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 ### Social acts:
 - posting something kind on someone’s social media or sending a kind email
