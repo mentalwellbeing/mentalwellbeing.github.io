@@ -1,6 +1,6 @@
 - title: "Perform One Act of Kindness"
   image: https://images.unsplash.com/photo-1584907797075-c5308ada266f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
-  description: >
+  description: |+
     Time: 20-60m+
     
     &nbsp;
@@ -16,7 +16,7 @@
 
 - title: "Choose a Self-Care Resource for Dealing with COVID-19"
   image: https://images.unsplash.com/photo-1569161031678-f49b4b9ca1c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  description: >
+  description: >+
     Time: 10-60m
     
     &nbsp;
@@ -39,7 +39,7 @@
     &nbsp;
     
     &nbsp;
-    
+  description2: >
     Try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way; for example, a work meeting, dinner, or a social event.
   authors: Wellbeing team
   link:
@@ -147,7 +147,7 @@
   authors: Wellbeing team
   link:
     url: therapy
-    display:  Resources for Therapy and Councelling
+    display:  Resources for Therapy and Counceling
   highlight: 1
   
   
