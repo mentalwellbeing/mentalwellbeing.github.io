@@ -7,7 +7,7 @@ permalink: /challenge/gratitude_letter
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1543118141-8598f6bfbc0a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=976&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1569437061238-3cf61084f487?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 
 # Gratitude Letter:
