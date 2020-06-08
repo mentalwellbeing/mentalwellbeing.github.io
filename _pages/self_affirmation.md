@@ -46,11 +46,6 @@ Please select a value from the list provided below. Describe three or four perso
 
 &nbsp;
 &nbsp;
-
-***The acts do not need to be for the same person, the person may or may not be aware of the act, and the act may or may not be similar to the acts listed above. Please do not perform any acts that may place yourself or others in danger and please follow your local social distancing legislation.***
-
-&nbsp;
-&nbsp;
 &nbsp;
 
 #### Evidence: 
