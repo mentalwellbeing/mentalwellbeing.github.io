@@ -9,7 +9,7 @@ permalink: /challenge/social_support
 
 # Social Support: 
 
-<img src="{{ "https://images.unsplash.com/photo-1500995617113-cf789362a3e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60" }}" class=" }}" class="img-responsive" width="15%" style="float: left; margin: 4.5%; min-width: 150px" />
+<img src="{{ "https://images.unsplash.com/photo-1500995617113-cf789362a3e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60" }}" class=" }}" class="img-responsive" width="25%" style="float: left; margin: 4.5%; min-width: 150px" />
 
 
 &nbsp;
