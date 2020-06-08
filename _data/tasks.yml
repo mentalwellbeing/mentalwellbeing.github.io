@@ -1,13 +1,13 @@
 - title: "Perform One Act of Kindness"
   image: https://images.unsplash.com/photo-1584907797075-c5308ada266f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
-  description: |+
+  description: >
     Time: 20-60m+
     
     &nbsp;
     
     &nbsp;
     
-    In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one.
+      In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one.
   authors: Wellbeing team
   link:
     url: kindness_act
@@ -16,14 +16,9 @@
 
 - title: "Choose a Self-Care Resource for Dealing with COVID-19"
   image: https://images.unsplash.com/photo-1569161031678-f49b4b9ca1c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  description: >+
+  description: >
     Time: 10-60m
-    
-    &nbsp;
-    
-    &nbsp;
-    
-    Choose a talk, guided meditation, or reading from leading psychologists and mindfulness teachers on COVID-19.
+      Choose a talk, guided meditation, or reading from leading psychologists and mindfulness teachers on COVID-19.
   authors: Wellbeing team
   link:
     url: self_care
@@ -35,11 +30,7 @@
   image: https://images.unsplash.com/photo-1542644499-f82093e97d34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: >
     Time: up to 24hrs
-    
-    &nbsp;
-    
-    &nbsp;
-  description2: >
+    ~
     Try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way; for example, a work meeting, dinner, or a social event.
   authors: Wellbeing team
   link:
@@ -50,12 +41,8 @@
 
 - title: "Meditation"
   image: https://images.unsplash.com/photo-1577253313708-cab167d2c474?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1622&q=80
-  description: >
+  description: |
     Time: 5-25m
-    
-    &nbsp;
-    
-    &nbsp;
     
     There are many types of meditation, but most have four elements in common: a quiet location; a specific, comfortable posture (sitting, lying down, walking); a focus of attention (sensations of the breath or body part, a specially chosen word or set of words, an object); and an open attitude (letting distractions come and go naturally without judging them).
   authors: Wellbeing team
@@ -67,14 +54,9 @@
 
 - title: "Exercise"
   image: https://images.unsplash.com/photo-1571019613576-2b22c76fd955?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  description: >
+  description: |
    Time: 8-75 m
-   
-   &nbsp;
-    
-   &nbsp;
-    
-   Choose one of the suggested exercises to boost your energy, health and mood. You can choose to follow the complete work out or do less.
+    Choose one of the suggested exercises to boost your energy, health and mood. You can choose to follow the complete work out or do less.
   authors: Wellbeing team
   link:
     url: exercise
@@ -84,12 +66,8 @@
   
 - title: "Gratitude Letter"
   image: https://images.unsplash.com/photo-1499744937866-d7e566a20a61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  description: >
+  description: |
     Time: 8m+
-    
-    &nbsp;
-    
-    &nbsp;
     
     Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act (or acts) for you for which you are extremely grateful. For at least the next 8 minutes, write a letter to one of these individuals. 
   authors: Wellbeing team
@@ -101,7 +79,7 @@
 
 - title: "Counting Blessings"
   image: https://images.unsplash.com/photo-1528938102132-4a9276b8e320?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  description: >
+  description: >+
     Time: 5-15m
   
     There are many things in our lives, both large and small, that we might be grateful about. Think back over the events of the past week and write down up to five things that happened for which you are grateful or thankful.
@@ -114,7 +92,7 @@
  
 - title: "Best Possible Self"
   image: https://images.unsplash.com/photo-1505742567374-19ca71c59408?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80
-  description: >
+  description: |+
     Time:10m+
     
     Take a moment to think about your best possible self in one of these four realms: Academic/Professional/Social/Health. For the next 10 minutes, please write continuously about what you imagined.
@@ -127,10 +105,10 @@
 
 - title: "Self-Affirmation "
   image: https://images.unsplash.com/photo-1521033806519-27c6751acbc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
-  description: >
+  description: |+
     Time: 15-40m
     
-    Think of one of your values. Describe three or four personal experiences in which the value was important to you and made you feel good about yourself. 
+      Think of one of your values. Describe three or four personal experiences in which the value was important to you and made you feel good about yourself. 
   authors: Wellbeing team
   link:
     url: self_affirmation
