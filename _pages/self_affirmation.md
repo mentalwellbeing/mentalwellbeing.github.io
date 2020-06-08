@@ -18,7 +18,7 @@ permalink: /challenge/self_affirmation
 
 &nbsp;
 
-***Instructions: There are many things that make life precious and worthwhile. Today you will engage in a positive exercise in which you will focus on the things in life that are most important to you.***
+***There are many things that make life precious and worthwhile. Today you will engage in a positive exercise in which you will focus on the things in life that are most important to you.***
 
 &nbsp;
 &nbsp;
