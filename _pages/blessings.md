@@ -3,7 +3,7 @@ title: "Counting Blessings"
 layout: gridlay
 excerpt: "Counting Blessings"
 sitemap: false
-permalink: /challenge/counting_blessings
+permalink: /challenge/blessings
 ---
 
 
