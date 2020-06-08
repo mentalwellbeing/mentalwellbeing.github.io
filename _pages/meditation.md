@@ -18,10 +18,10 @@ permalink: /challenge/meditation
 
 &nbsp;
 
-***There are many types of meditation, but most have four elements in common:***
+***There are many types of meditation, but most have three elements in common:***
 - a quiet location; a specific, comfortable posture (sitting, lying down, walking)
 - a focus of attention (sensations of the breath or body part, a specially chosen word or set of words, an object)
-- and an open attitude (letting distractions come and go naturally without judging them)
+- an open attitude (letting distractions come and go naturally without judging them)
 
 &nbsp;
 &nbsp;
