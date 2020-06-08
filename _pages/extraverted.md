@@ -16,7 +16,8 @@ permalink: /challenge/extraverted
 
 &nbsp;
 
-***Today we would like you to try to change your behavior. Specifically, try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way; for example, a work meeting, dinner, or a social event. Previous research has shown that performing these behaviors enhanced positive emotions.*** 
+***Today we would like you to try to change your behavior. Specifically, try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way; for example, a work meeting, dinner, or a social event.***
+***Previous research has shown that performing these behaviors enhanced positive emotions.*** 
 
 &nbsp;
 &nbsp;
