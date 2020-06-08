@@ -3,8 +3,9 @@
   description: >
     Time: 20-60m+
     <br/> 
-    In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one.
-  authors: Wellbeing team
+    <br/> 
+    Choose anything you want, big or small, as long as it is something you would not have otherwise done.
+    authors: Wellbeing team
   link:
     url: kindness_act
     display:  Acts of Kindness Examples
@@ -15,7 +16,8 @@
   description: >
     Time: 10-60m
     <br/> 
-    Choose a talk, guided meditation, or reading from leading psychologists and mindfulness teachers on COVID-19.
+    <br/> 
+    Engage with one talk or reading from leading psychologists and mindfulness teachers.
   authors: Wellbeing team
   link:
     url: self_care
@@ -28,7 +30,8 @@
   description: >
     Time: up to 24hrs
     <br/> 
-    Try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way; for example, a work meeting, dinner, or a social event.
+    <br/> 
+    Try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way.
   authors: Wellbeing team
   link:
     url: extraverted
@@ -41,7 +44,8 @@
   description: >
     Time: 5-25m
     <br/> 
-    There are many types of meditation, but most have four elements in common: a quiet location; a specific, comfortable posture (sitting, lying down, walking); a focus of attention (sensations of the breath or body part, a specially chosen word or set of words, an object); and an open attitude (letting distractions come and go naturally without judging them).
+    <br/> 
+    Try a guided meditation or use a meditation app.
   authors: Wellbeing team
   link:
     url: meditation
@@ -54,7 +58,8 @@
   description: >
    Time: 8-75 m
    <br/> 
-   Choose one of the suggested exercises to boost your energy, health and mood. You can choose to follow the complete work out or do less.
+   <br/>
+   Choose one of the suggested exercises to boost your energy, health and mood. 
   authors: Wellbeing team
   link:
     url: exercise
@@ -67,7 +72,8 @@
   description: >
     Time: 8m+
     <br/> 
-    Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act (or acts) for you for which you are extremely grateful. For at least the next 8 minutes, write a letter to one of these individuals. 
+    <br/> 
+    Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act for you and write a letter to them. 
   authors: Wellbeing team
   link:
     url: gratitude_letter
@@ -80,7 +86,8 @@
   description: >
     Time: 5-15m
     <br/> 
-    There are many things in our lives, both large and small, that we might be grateful about. Think back over the events of the past week and write down up to five things that happened for which you are grateful or thankful.
+    <br/> 
+    Write down up to five things that happened today or in the last week for which you are grateful.
   authors: Wellbeing team
   link:
     url: blessings
@@ -93,7 +100,8 @@
   description: >
     Time:10m+
     <br/> 
-    Take a moment to think about your best possible self in one of these four realms: Academic/Professional/Social/Health. For the next 10 minutes, please write continuously about what you imagined.
+    <br/> 
+    Take a moment to think about your best possible self in one of these four realms: Academic/Professional/Social/Health. Then write about what you imagined.
   authors: Wellbeing team
   link:
     url: best_self
@@ -105,6 +113,7 @@
   image: https://images.unsplash.com/photo-1521033806519-27c6751acbc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
   description: >
     Time: 15-40m
+    <br/> 
     <br/> 
     Think of one of your values. Describe three or four personal experiences in which the value was important to you and made you feel good about yourself. 
   authors: Wellbeing team
@@ -119,7 +128,8 @@
   description: >
     Time: 20-60m
     <br/> 
-    Schedule an online therapy session or connect with a counselor through text.
+    <br/> 
+    Schedule a virtual therapy session or connect with a counselor through text.
   authors: Wellbeing team
   link:
     url: therapy
@@ -132,7 +142,8 @@
   description: >
     Time: 20-60m
     <br/> 
-    Engage with friends and loved ones virtually through games or video chatting.
+    <br/> 
+    Engage with friends and loved ones online through games or video chatting.
   authors: Wellbeing team
   link:
     url: social_support
