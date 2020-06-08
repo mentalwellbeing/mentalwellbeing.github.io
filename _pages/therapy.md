@@ -7,7 +7,7 @@ permalink: /challenge/therapy
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1588873281272-14886ba1f737?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1250&q=80" }}" class="img-responsive" width="30%" style="float: right; margin: 3.5%; min-width: 200px" />
+<img src="{{ "https://images.unsplash.com/photo-1588873281272-14886ba1f737?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1250&q=80" }}" class="img-responsive" width="40%" style="float: right; margin: 3.5%; min-width: 350px" />
 
 
 # Therapy & Counceling: 
