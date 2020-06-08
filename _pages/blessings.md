@@ -7,10 +7,10 @@ permalink: /challenge/counting_blessings
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1496518908709-02b67989c265?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
-
 
 # Counting Blessings: 
+
+<img src="{{ "https://images.unsplash.com/photo-1569360556894-15dca0c6ff1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=976&q=80" }}" class="img-responsive" width="35%" style="float: right; margin: 4.5%; min-width: 350px" />
 
 &nbsp;
 
@@ -25,6 +25,12 @@ permalink: /challenge/counting_blessings
 &nbsp;
 
 ### This week I am grateful for...
+
+1.
+2. 
+3. 
+4.
+5.
 
 &nbsp;
 &nbsp;
