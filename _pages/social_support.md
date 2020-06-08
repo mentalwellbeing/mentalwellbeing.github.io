@@ -27,7 +27,7 @@ permalink: /challenge/social_support
 &nbsp;
 &nbsp;
 
-<img src="{{ "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="25%" style="float: left; margin: 3.5%; min-width: 150px" />
+<img src="{{ "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="25%" style="float: left; margin: 4.5%; min-width: 150px" />
 
 ### Free video chatting platforms:
 - <a href="https://zoom.us/pricing" target="_blank">Zoom</a>
