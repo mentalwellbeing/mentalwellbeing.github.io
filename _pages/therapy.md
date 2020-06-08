@@ -25,11 +25,11 @@ permalink: /challenge/therapy
 &nbsp;
 
 ### Virtual Therapy Services
-- Coronavirus Online Therapy for Essential Workers (free/low fee): https://www.coronavirusonlinetherapy.org/
-- Crisis Textline (free text support during acute crisis): https://www.crisistextline.org/text-us/
+- <a href="https://www.coronavirusonlinetherapy.org/" target="_blank">Coronavirus Online Therapy for Essential Workers</a> (free/low fee)
+- <a href="https://www.crisistextline.org/text-us/" target="_blank">Crisis Textline</a> (free text support during acute crisis)
 
 ### Finding Local Therapists:
-- https://www.psychologytoday.com/us
+-<a href="https://www.psychologytoday.com/us" target="_blank">Psychology Today Search Engine</a>
 
 
 &nbsp;
