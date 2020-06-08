@@ -26,11 +26,11 @@ permalink: /challenge/blessings
 
 ### This week I am grateful for...
 
-1.
-2. 
-3. 
-4.
-5.
+>1. 
+>2. 
+>3.  
+>4. 
+>5. 
 
 &nbsp;
 &nbsp;
