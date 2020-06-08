@@ -18,7 +18,9 @@ permalink: /challenge/gratitude_letter
 
 &nbsp;
 
-***Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act (or acts) for you for which you are extremely grateful. Think of the people – parents, children, spouses/partners, relatives, friends, neighbors, teachers, employers, and so on – who have been especially generous and thoughtful towards you.*** 
+***Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act (or acts) for you for which you are extremely grateful.*** 
+
+***Think of the people – parents, children, spouses/partners, relatives, friends, neighbors, teachers, employers, and so on – who have been especially generous and thoughtful towards you.*** 
 
 ***For example, you may feel grateful for a friend who was there for you when you needed them, or helped give you a new perspective on things when you were upset.***
 
