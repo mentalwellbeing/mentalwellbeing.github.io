@@ -13,8 +13,9 @@
 - title: "Choose a Self-Care Resource for Dealing with COVID-19"
   image: https://images.unsplash.com/photo-1569161031678-f49b4b9ca1c2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: >
-    -Time: 10-60m
-    -Choose a talk, guided meditation, or reading from leading psychologists and mindfulness teachers on COVID-19.
+    Time: 10-60m
+    <br/> 
+    Choose a talk, guided meditation, or reading from leading psychologists and mindfulness teachers on COVID-19.
   authors: Wellbeing team
   link:
     url: self_care
@@ -25,9 +26,9 @@
 - title: "Be More Extraverted"
   image: https://images.unsplash.com/photo-1542644499-f82093e97d34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: >
-    - > Time: up to 24hrs
-    
-    - > Try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way; for example, a work meeting, dinner, or a social event.
+    Time: up to 24hrs
+    <br/> 
+    Try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way; for example, a work meeting, dinner, or a social event.
   authors: Wellbeing team
   link:
     url: extraverted
@@ -37,9 +38,9 @@
 
 - title: "Meditation"
   image: https://images.unsplash.com/photo-1577253313708-cab167d2c474?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1622&q=80
-  description: |
+  description: >
     Time: 5-25m
-    
+    <br/> 
     There are many types of meditation, but most have four elements in common: a quiet location; a specific, comfortable posture (sitting, lying down, walking); a focus of attention (sensations of the breath or body part, a specially chosen word or set of words, an object); and an open attitude (letting distractions come and go naturally without judging them).
   authors: Wellbeing team
   link:
@@ -50,9 +51,10 @@
 
 - title: "Exercise"
   image: https://images.unsplash.com/photo-1571019613576-2b22c76fd955?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  description: |
+  description: >
    Time: 8-75 m
-    Choose one of the suggested exercises to boost your energy, health and mood. You can choose to follow the complete work out or do less.
+   <br/> 
+   Choose one of the suggested exercises to boost your energy, health and mood. You can choose to follow the complete work out or do less.
   authors: Wellbeing team
   link:
     url: exercise
@@ -62,9 +64,9 @@
   
 - title: "Gratitude Letter"
   image: https://images.unsplash.com/photo-1499744937866-d7e566a20a61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  description: |
+  description: >
     Time: 8m+
-    
+    <br/> 
     Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act (or acts) for you for which you are extremely grateful. For at least the next 8 minutes, write a letter to one of these individuals. 
   authors: Wellbeing team
   link:
@@ -75,9 +77,9 @@
 
 - title: "Counting Blessings"
   image: https://images.unsplash.com/photo-1528938102132-4a9276b8e320?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
-  description: >+
+  description: >
     Time: 5-15m
-  
+    <br/> 
     There are many things in our lives, both large and small, that we might be grateful about. Think back over the events of the past week and write down up to five things that happened for which you are grateful or thankful.
   authors: Wellbeing team
   link:
@@ -88,9 +90,9 @@
  
 - title: "Best Possible Self"
   image: https://images.unsplash.com/photo-1505742567374-19ca71c59408?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80
-  description: |+
+  description: >
     Time:10m+
-    
+    <br/> 
     Take a moment to think about your best possible self in one of these four realms: Academic/Professional/Social/Health. For the next 10 minutes, please write continuously about what you imagined.
   authors: Wellbeing team
   link:
@@ -101,10 +103,10 @@
 
 - title: "Self-Affirmation "
   image: https://images.unsplash.com/photo-1521033806519-27c6751acbc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
-  description: |+
+  description: >
     Time: 15-40m
-    
-      Think of one of your values. Describe three or four personal experiences in which the value was important to you and made you feel good about yourself. 
+    <br/> 
+    Think of one of your values. Describe three or four personal experiences in which the value was important to you and made you feel good about yourself. 
   authors: Wellbeing team
   link:
     url: self_affirmation
@@ -116,7 +118,7 @@
   image: https://images.unsplash.com/photo-1543269866-487350d6fa5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: >
     Time: 20-60m
-    
+    <br/> 
     Schedule an online therapy session or connect with a counselor through text.
   authors: Wellbeing team
   link:
@@ -129,7 +131,7 @@
   image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
   description: >
     Time: 20-60m
-    
+    <br/> 
     Engage with friends and loved ones virtually through games or video chatting.
   authors: Wellbeing team
   link:
