@@ -7,7 +7,7 @@ permalink: /challenge/social_support
 ---
 
 
-<img src="{{ "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="40%" style="float: right; margin: 3.5%; min-width: 350px" />
+<img src="{{ "https://images.unsplash.com/photo-1500995617113-cf789362a3e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60" }}" class="img-responsive" width="40%" style="float: right; margin: 3.5%; min-width: 350px" />
 
 # Social Support: 
 
@@ -23,7 +23,11 @@ permalink: /challenge/social_support
 &nbsp;
 &nbsp;
 
-<img src="{{ "https://images.unsplash.com/photo-1500995617113-cf789362a3e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60" }}" class="img-responsive" width="25%" style="float: left; margin: 3.5%; min-width: 150px" />
+&nbsp;
+&nbsp;
+&nbsp;
+
+<img src="{{ "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80" }}" class="img-responsive" width="25%" style="float: left; margin: 3.5%; min-width: 150px" />
 
 ### Free video chatting platforms:
 - <a href="https://zoom.us/pricing" target="_blank">Zoom</a>
