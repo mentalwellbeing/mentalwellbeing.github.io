@@ -24,11 +24,11 @@ permalink: /challenge/therapy
 &nbsp;
 &nbsp;
 
-### Virtual Therapy Services
+### Try out Virtual Therapy Services:
 - <a href="https://www.coronavirusonlinetherapy.org/" target="_blank">Coronavirus Online Therapy for Essential Workers</a> (free/low fee)
 - <a href="https://www.crisistextline.org/text-us/" target="_blank">Crisis Textline</a> (free text support during acute crisis)
 
-### Finding Local Therapists:
+### Schedule a Telehealth Appointment with a Local Therapist:
 - <a href="https://www.psychologytoday.com/us" target="_blank">Psychology Today Search Engine</a>
 
 
