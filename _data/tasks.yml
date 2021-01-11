@@ -1,151 +1,163 @@
 - title: "Perform One Act of Kindness"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
+  image: https://images.unsplash.com/photo-1584907797075-c5308ada266f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
+  description: >+
     Time: 20-60m+
-
-  Instruction: In our daily lives, we all perform acts of kindness for others. You’re free to choose anything you wish, big or small, but it should be something you would not have normally done. Do more than one.
+    <br/> 
+    <br/> 
+    Choose anything you want, big or small, as long as it is something you would not have otherwise done.
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
+    url: kindness_act
     display:  Acts of Kindness Examples
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Random acts of kindness for others boosts peer acceptance and wellbeing</a>
-  news2: <a href="https://reference.com" target="_blank">Random acts of kindness can reduce inflammatory-related patterns of gene expression</a>
-
 
 - title: "Choose a Self-Care Resource for Dealing with COVID-19"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
+  image: https://images.unsplash.com/photo-1487001175664-86de872e3cd6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=642&q=80
+  description: >+
     Time: 10-60m
-    
-    Choose a talk, guided meditation, or reading from leading psychologists and mindfulness teachers on COVID-19.
+    <br/> 
+    <br/> 
+    Engage with one talk or reading from leading psychologists and mindfulness teachers.
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
+    url: self_care
     display:  Self-Care Resources
   highlight: 1
   
+  
 - title: "Be More Extraverted"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
+  image: https://images.unsplash.com/photo-1542644499-f82093e97d34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  description: >+
     Time: up to 24hrs
-    
-    Try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way; for example, a work meeting, dinner, or a social event.
+    <br/> 
+    <br/> 
+    Try to act as talkative, assertive, and spontaneous as you can during the whole day or find a situation during a day to act this way.
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
+    url: extraverted
     display:  Suggestions for Being More Extroverted
   highlight: 1
-  news1: <a href="https://reference.com/" target="_blank">Extraverted behavior has shown to increase positive affect, feelings of connectedness and flow.</a>
 
 
 - title: "Meditation"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
+  image: https://images.unsplash.com/photo-1577253313708-cab167d2c474?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1622&q=80
+  description: >+
     Time: 5-25m
-    
-    There are many types of meditation, but most have four elements in common: a quiet location; a specific, comfortable posture (sitting, lying down, walking); a focus of attention (sensations of the breath or body part, a specially chosen word or set of words, an object); and an open attitude (letting distractions come and go naturally without judging them).
+    <br/> 
+    <br/> 
+    Try a guided meditation or use a meditation app.
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
+    url: meditation
     display:  Guided Meditation Resources
   highlight: 1
 
 
 - title: "Exercise"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
-   Time: 8-75 m
-   
-   Choose one of the suggested exercises to boost your energy, health and mood. You can choose to follow the complete work out or do less.
+  image: https://images.unsplash.com/photo-1571019613576-2b22c76fd955?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  description: >+
+   Time: 8-75m
+   <br/> 
+   <br/>
+   Choose one of the suggested exercises to boost your energy, health and mood. 
+   <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
+    url: exercise
     display:  Exercise Suggestions and Videos
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">description of research</a>
-  news2: Some info 2
   
   
 - title: "Gratitude Letter"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
+  image: https://images.unsplash.com/photo-1499744937866-d7e566a20a61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  description: >+
     Time: 8m+
-    
-    Please take a moment to think back over the past several years of your life and remember an instance when someone did a kind act (or acts) for you for which you are extremely grateful. For at least the next 8 minutes, write a letter to one of these individuals. 
+    <br/> 
+    <br/> 
+    Think back over the past several years of your life and remember an instance when someone did a kind act for you. Write a letter to them. 
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
+    url: gratitude_letter
     display:  Instructions for the Gratitude Letter
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Studies have shown that writing heart-fealt gratitude letters can increase wellbeing.</a>
 
 
 - title: "Counting Blessings"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
+  image: https://images.unsplash.com/photo-1548175551-1edaea7bbf0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1653&q=80
+  description: >+
     Time: 5-15m
-  
-    There are many things in our lives, both large and small, that we might be grateful about. Think back over the events of the past week and write down up to five things that happened for which you are grateful or thankful.
-  authors: Wellbeing team
-  highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Studies have shown that counting blessings can increase wellbeing.</a>
- 
- 
-- title: "Best Possible Self - Academic/Professional/Social/Health"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
-    Time:10m+
-    
-    Take a moment to think about your best possible self in one of these four realms: Academic/Professional/Social/Health. For the next 10 minutes, please write continuously about what you imagined.
+    <br/> 
+    <br/> 
+    Write down up to five things that happened today or in the last week for which you are grateful.
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
+    url: blessings
+    display:  Instructions for Counting Blessings
+  highlight: 1
+ 
+ 
+- title: "Best Possible Self"
+  image: https://images.unsplash.com/photo-1505742567374-19ca71c59408?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80
+  description: >+
+    Time: 10m+
+    <br/> 
+    <br/> 
+    Take a moment to think about your best possible self in one of these four realms: Academic/Professional/Social/Health. Then write about what you imagined.
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: best_self
     display:  Instructions for Writing about One's Best Possible Self
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Studies have shown that writing about one’s best possible selve can enhance happiness</a>
 
 
 - title: "Self-Affirmation "
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
+  image: https://images.unsplash.com/photo-1521033806519-27c6751acbc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
+  description: >+
     Time: 15-40m
-    
-    Think of one of your values. Describe three or four personal experiences in which the value was important to you and made you feel good about yourself. 
+    <br/> 
+    <br/> 
+    Think of one of your values. Describe three or four personal experiences in which the value was important to you and made you feel good about yourself.
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
-    display:  List of Values
+    url: self_affirmation
+    display:  Suggestions of Values to Write About
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">Self affirmation has shown to reduce stress and improve wellbeing</a>
-  news2: Some info 2
   
   
-- title: "Therapy or Social Support"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
+- title: "Therapy"
+  image: https://images.unsplash.com/photo-1543269866-487350d6fa5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  description: >+
     Time: 20-60m
-    
-    Engage with an online community support group or schedule a virtual therapy session.
+    <br/> 
+    <br/> 
+    Schedule a virtual therapy session or connect with a counselor through text.
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
-    display:  Free and Low Cost Resources for Therapy or Social Support 
+    url: therapy
+    display:  Resources for Therapy and Counceling
   highlight: 1
- 
   
   
-  
-  
-- title: "Some task -- Template Holder (for now)"
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
-  description: >
-    Some description.
+- title: "Social Support"
+  image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+  description: >+
+    Time: 20-60m
+    <br/> 
+    <br/> 
+    Engage with friends and loved ones online through games or video chatting.
+    <br/>
   authors: Wellbeing team
   link:
-    url: https://example.com/
-    display:  Source
+    url: social_support
+    display:  Online Social Gathering Resources
   highlight: 1
-  news1: <a href="https://reference.com" target="_blank">description of research</a>
-  news2: Some info 2
 
