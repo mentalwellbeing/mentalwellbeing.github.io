@@ -15,7 +15,7 @@ url: 'https://abbydulski.github.io'
 
 include:
   - .htaccess
-  - _pages
+  - ['pages']
 
 
 sass:
