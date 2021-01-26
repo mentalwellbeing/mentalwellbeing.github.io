@@ -10,8 +10,8 @@ title: The Mental Wellbeing Project
 email: satra@mit.edu
 description: > # this means to ignore newlines until "baseurl:"
   Take care of mental wellbeing together.
-baseurl: /
-url: https://mentalwellbeing.us
+baseurl: 'abbydulskicopy'
+url: 'https://abbydulski.github.io'
 
 include:
   - .htaccess
