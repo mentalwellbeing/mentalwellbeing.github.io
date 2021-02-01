@@ -23,6 +23,9 @@ permalink: /challenge/animal
 ### Instructions:
 The belief that a dog is a man’s best friend has been proven to be true on many occasions. Interacting with animals is a great way to reduce stress and anxiety and improve one’s mood in a fairly short period of time. Spend time with any animal doing an activity of your choosing. Below are ideas of what to do with your pet and how to interact with an animal if you don’t own or know someone who owns a pet. 
 
+&nbsp;
+&nbsp;
+
 ### Things to do with an Animal:
 - Walk/Jog them
 - Teach them a trick
