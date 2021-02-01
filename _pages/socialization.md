@@ -1,5 +1,5 @@
 ---
-title: "Socialization"
+title: "Spend Time with a Young Child or Elder"
 layout: gridlay
 excerpt: "Socialization"
 sitemap: false
@@ -14,42 +14,28 @@ permalink: /challenge/socialization
 &nbsp;
 
 
-*Time: 8-75m*
+*Time: 15-60m*
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-***Choose one of these exercises to boost your energy, health and mood. You can choose to follow the complete workout or do less.***
 
-&nbsp;
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-
-
-### Get Moving:
-- Walk
-- Jog, run or bike
-- A certain amount of pushups (you can put your knees on the floor), squats and crunches
-- Exercise tips during quarantine: <a href="http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/technical-guidance/stay-physically-active-during-self-quarantine" target="_blank">Staying Physically Active During Self-Quarantine</a>
-
-<img src="{{ "https://images.unsplash.com/photo-1583639687726-84d20638bf63?ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80" }}" class="img-responsive" width="40%" style="float: right; margin: 4.5%; min-width: 350px" />
+### Instructions:
+Sharing life experiences with someone from a different age group can teach you valuable life lessons and help you gain exposure to new perspectives. Here are some suggestions for conversation starters with a young child or elder person:
+    - Describe the environment you grew up in
+    - What surprises you most about the world today
+    - What is the most important thing to you right now?
+    - What does mental wellbeing mean to you?
 
 
-### Workout Videos (no equipment needed):
-- <a href="https://www.youtube.com/watch?v=AE_FeKpc_lk" target="_blank">Seniors and beginners</a>
-- <a href="https://www.youtube.com/watch?v=4sxcFJaQhJI" target="_blank">8m bodyweight workout</a>
-- <a href="https://www.youtube.com/watch?v=oAPCPjnU1wA" target="_blank">20m full body workout</a>
-- <a href="https://www.youtube.com/watch?v=h4FU4IF8wDA" target="_blank">50-75m indoor workouts for runners (Spanish)</a>
+
+### Note:
+We know that COVID may prevent this activity from being done safely depending on one’s living conditions, so we suggest trying to communicate through Skype, Zoom, Facetime, or a phone call!
 
 
-### Yoga Videos:
-- <a href="https://www.youtube.com/user/yogawithadriene" target="_blank">Yoga with Adriene</a>
-- <a href="https://www.youtube.com/channel/UCX32D3gKXENrhOXdZjWWtMA" target="_blank">Yoga with Kassandra</a>
-- <a href="https://www.youtube.com/channel/UCciuZl2ydLCvN5txlLW0rIg" target="_blank">Yoga with Tim</a>
+### Evidence:
+Studies like this one from Stanford show that intergenerational relationships are mutually beneficial and important for society, allowing children from vulnerable populations to gain valuable guidance and older adults to experience the excitement of learning about new technology and trends [Parker (2016). Older People Offer Resources that Children Need, Stanford Report Says] 
 
 &nbsp;
 &nbsp;
