@@ -9,7 +9,7 @@ permalink: /challenge/cooking
 
 # Take the Time to Cook Yourself a Nice Meal: 
 
-<img src="{{ "https://images.unsplash.com/photo-1601002177343-070d8f2d3496?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTh8fGNvb2tpbmclMjBtZWFsc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
+<img src="{{ "https://images.unsplash.com/photo-1601002177343-070d8f2d3496?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTh8fGNvb2tpbmclMjBtZWFsc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: right; margin: 3.0%; min-width: 100px" />
 
 &nbsp;
 
