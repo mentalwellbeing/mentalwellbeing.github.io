@@ -37,6 +37,9 @@ The belief that a dog is a man’s best friend has been proven to be true on man
 - Volunteer to walk dogs/socialize cats at a local shelter
 - Sign up to be a dog walker for pet-owners near you: <a href="https://wagwalking.com/dog-walker" target="_blank">Wag Walker</a>
 
+### Evidence:
+Interacting with animals can greatly reduce stress and anxiety [Thelwell (2019). Paws for Thought: A Controlled Study Investigating the Benefits of Interacting with a House-Trained Dog on University Students Mood and Anxiety; Beetx, Uvnas-Moberg, Julius & Kotrschal; Psychosocial and Psychophysiological Effects of Human-Animal Interactions: The Possible Role of Oxytocin].
+
 
 &nbsp;
 &nbsp;
