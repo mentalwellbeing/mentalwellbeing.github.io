@@ -33,7 +33,13 @@ important to me, I will express my opinion.”
 &nbsp;
 
 #### Evidence: 
-Extraverted behavior has shown to increase positive affect, feelings of connectedness and flow (feelings of being in the zone, fully immersed, energized) [Jacques-Hamilton (2018) Journal of Experimental Psychology; Margolis & Lyubomirsky (2020) Journal of Experimental Psychology: General]. 
+Extraverted behavior has shown to increase positive affect, feelings of connectedness and flow (feelings of being in the zone, fully immersed, energized) [<a href="https://psycnet.apa.org/record/2018-58861-001" target="_blank">Jacques-Hamilton (2018). Journal of Experimental Psychology</a>; <a href="https://www.researchgate.net/publication/334853339_Experimental_manipulation_of_extraverted_and_introverted_behavior_and_its_effects_on_well-being" target="_blank">Margolis & Lyubomirsky (2020). Journal of Experimental Psychology: General</a>]. 
+
+
+
+
+
+
 
 &nbsp;
 &nbsp;

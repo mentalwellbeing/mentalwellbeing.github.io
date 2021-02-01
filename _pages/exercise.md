@@ -53,3 +53,13 @@ permalink: /challenge/exercise
 
 &nbsp;
 &nbsp;
+&nbsp;
+
+### Evidence:
+Studies in the USA from 2011, 2013, and 2015 involving over 1,000,000 people aged 18+ found that individuals who exercised regularly had improved mental and physical health. Individuals who exercised regularly self-reported 43.2% fewer days of poor mental health compared to individuals who did not exercise [<a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30227-X/fulltext" target="_blank">Chekroud, Sammi R et al. (2018). Association between physical exercise and mental health in 1·2 million individuals in the USA between 2011 and 2015: a cross-sectional study</a>].
+
+
+
+
+&nbsp;
+&nbsp;
