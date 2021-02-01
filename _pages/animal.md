@@ -1,5 +1,5 @@
 ---
-title: "Animal"
+title: "Spend Time with an Animal"
 layout: gridlay
 excerpt: "Animal"
 sitemap: false
@@ -14,42 +14,29 @@ permalink: /challenge/animal
 &nbsp;
 
 
-*Time: 8-75m*
+*Time: 15-120m*
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-***Choose one of these exercises to boost your energy, health and mood. You can choose to follow the complete workout or do less.***
+### Instructions:
+The belief that a dog is a man’s best friend has been proven to be true on many occasions. Interacting with animals is a great way to reduce stress and anxiety and improve one’s mood in a fairly short period of time. Spend time with any animal doing an activity of your choosing. Below are ideas of what to do with your pet and how to interact with an animal if you don’t own or know someone who owns a pet. 
 
-&nbsp;
-&nbsp;
+### Things to do with an Animal:
+- Walk/Jog them
+- Teach them a trick
+- Play outdoors with a toy
+- Take photos of them
+- Visit a park with them
 
-&nbsp;
-&nbsp;
+### How to Interact With an Animal Without a Pet:
+- Visit local animal shelters and humane societies
+- Offer to watch a friend's pet for the day
+- Visit a sanctuary or zoo
+- Volunteer to walk dogs/socialize cats at a local shelter
+- Sign up to be a dog walker for pet-owners near you
 
-
-
-### Get Moving:
-- Walk
-- Jog, run or bike
-- A certain amount of pushups (you can put your knees on the floor), squats and crunches
-- Exercise tips during quarantine: <a href="http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/technical-guidance/stay-physically-active-during-self-quarantine" target="_blank">Staying Physically Active During Self-Quarantine</a>
-
-<img src="{{ "https://images.unsplash.com/photo-1583639687726-84d20638bf63?ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80" }}" class="img-responsive" width="40%" style="float: right; margin: 4.5%; min-width: 350px" />
-
-
-### Workout Videos (no equipment needed):
-- <a href="https://www.youtube.com/watch?v=AE_FeKpc_lk" target="_blank">Seniors and beginners</a>
-- <a href="https://www.youtube.com/watch?v=4sxcFJaQhJI" target="_blank">8m bodyweight workout</a>
-- <a href="https://www.youtube.com/watch?v=oAPCPjnU1wA" target="_blank">20m full body workout</a>
-- <a href="https://www.youtube.com/watch?v=h4FU4IF8wDA" target="_blank">50-75m indoor workouts for runners (Spanish)</a>
-
-
-### Yoga Videos:
-- <a href="https://www.youtube.com/user/yogawithadriene" target="_blank">Yoga with Adriene</a>
-- <a href="https://www.youtube.com/channel/UCX32D3gKXENrhOXdZjWWtMA" target="_blank">Yoga with Kassandra</a>
-- <a href="https://www.youtube.com/channel/UCciuZl2ydLCvN5txlLW0rIg" target="_blank">Yoga with Tim</a>
 
 &nbsp;
 &nbsp;
