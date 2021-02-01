@@ -35,7 +35,7 @@ The belief that a dog is a man’s best friend has been proven to be true on man
 - Offer to watch a friend's pet for the day
 - Visit a sanctuary or zoo
 - Volunteer to walk dogs/socialize cats at a local shelter
-- Sign up to be a dog walker for pet-owners near you
+- Sign up to be a dog walker for pet-owners near you: <a href="https://wagwalking.com/dog-walker" target="_blank">Wag Walker</a>
 
 
 &nbsp;
