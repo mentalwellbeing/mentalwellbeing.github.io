@@ -9,7 +9,7 @@ permalink: /challenge/animal
 
 # Spend Time with an Animal: 
 
-<img src="{{ "https://images.unsplash.com/photo-1601758177266-bc599de87707?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9ncyUyMGFuZCUyMGNhdHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: right; margin: 3.0%; min-width: 100px" />
+<img src="{{ "https://images.unsplash.com/photo-1601758177266-bc599de87707?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9ncyUyMGFuZCUyMGNhdHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
 
 &nbsp;
 
