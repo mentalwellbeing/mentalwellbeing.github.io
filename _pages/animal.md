@@ -9,7 +9,7 @@ permalink: /challenge/animal
 
 # Spend Time with an Animal: 
 
-<img src="{{ "https://images.unsplash.com/photo-1601758177266-bc599de87707?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9ncyUyMGFuZCUyMGNhdHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
+<img src="{{ "https://images.unsplash.com/photo-1601758177266-bc599de87707?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9ncyUyMGFuZCUyMGNhdHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: right; margin: 3.0%; min-width: 100px" />
 
 &nbsp;
 
@@ -30,7 +30,7 @@ The belief that a dog is a man’s best friend has been proven to be true on man
 - Take photos of them
 - Visit a park with them
 
-<img src="{{ "https://images.unsplash.com/photo-1496711979108-4da5bd537912?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fGRvZ3MlMjBhbmQlMjBjYXRzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
+<img src="{{ "https://images.unsplash.com/photo-1496711979108-4da5bd537912?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fGRvZ3MlMjBhbmQlMjBjYXRzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: right; margin: 3.0%; min-width: 100px" />
 
 ### How to Interact With an Animal Without a Pet:
 - Visit local animal shelters and humane societies
