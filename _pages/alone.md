@@ -15,7 +15,8 @@ permalink: /challenge/alone
 
 
 *Time: Up to 24 hrs*
-
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
