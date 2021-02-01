@@ -1,5 +1,5 @@
 ---
-title: "Alone"
+title: "Take Time Alone"
 layout: gridlay
 excerpt: "Alone"
 sitemap: false
@@ -14,42 +14,21 @@ permalink: /challenge/alone
 &nbsp;
 
 
-*Time: 8-75m*
+*Time: Up to 24 hrs*
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-***Choose one of these exercises to boost your energy, health and mood. You can choose to follow the complete workout or do less.***
-
-&nbsp;
-&nbsp;
-
-&nbsp;
-&nbsp;
-
-
-
-### Get Moving:
-- Walk
-- Jog, run or bike
-- A certain amount of pushups (you can put your knees on the floor), squats and crunches
-- Exercise tips during quarantine: <a href="http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/technical-guidance/stay-physically-active-during-self-quarantine" target="_blank">Staying Physically Active During Self-Quarantine</a>
-
-<img src="{{ "https://images.unsplash.com/photo-1583639687726-84d20638bf63?ixlib=rb-1.2.1&auto=format&fit=crop&w=1632&q=80" }}" class="img-responsive" width="40%" style="float: right; margin: 4.5%; min-width: 350px" />
-
+### Instructions:
+Many of us lead busy lives and interact with numerous people throughout the day. Though social relationships are important for wellbeing, taking time away from the pressures of social interaction is also important to maintain a healthy mental state. So, take time out of your day to be alone with yourself and your thoughts only. During this time:
+    - Ask yourself what is the root of any positive emotions you might be feeling?
+    - Ask yourself what might be causing any negative emotions you are feeling?
+    - Take time to do what makes YOU happy
 
 ### Workout Videos (no equipment needed):
-- <a href="https://www.youtube.com/watch?v=AE_FeKpc_lk" target="_blank">Seniors and beginners</a>
-- <a href="https://www.youtube.com/watch?v=4sxcFJaQhJI" target="_blank">8m bodyweight workout</a>
-- <a href="https://www.youtube.com/watch?v=oAPCPjnU1wA" target="_blank">20m full body workout</a>
-- <a href="https://www.youtube.com/watch?v=h4FU4IF8wDA" target="_blank">50-75m indoor workouts for runners (Spanish)</a>
+Spending time alone can help people recharge and reflect. Studies have found that people feel less self-conscious when they are alone [Larson (2006) The Emergence of Solitude as a Constructive Domain of Experience in Early Adolescence].
 
-
-### Yoga Videos:
-- <a href="https://www.youtube.com/user/yogawithadriene" target="_blank">Yoga with Adriene</a>
-- <a href="https://www.youtube.com/channel/UCX32D3gKXENrhOXdZjWWtMA" target="_blank">Yoga with Kassandra</a>
-- <a href="https://www.youtube.com/channel/UCciuZl2ydLCvN5txlLW0rIg" target="_blank">Yoga with Tim</a>
 
 &nbsp;
 &nbsp;
