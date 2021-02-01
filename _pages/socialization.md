@@ -35,7 +35,7 @@ We know that COVID may prevent this activity from being done safely depending on
 
 
 ### Evidence:
-Studies like this one from Stanford show that intergenerational relationships are mutually beneficial and important for society, allowing children from vulnerable populations to gain valuable guidance and older adults to experience the excitement of learning about new technology and trends [Parker (2016). Older People Offer Resources that Children Need, Stanford Report Says] 
+Studies like this one from Stanford show that intergenerational relationships are mutually beneficial and important for society, allowing children from vulnerable populations to gain valuable guidance and older adults to experience the excitement of learning about new technology and trends [Parker (2016). *Older People Offer Resources that Children Need, Stanford Report Says*] 
 
 &nbsp;
 &nbsp;
