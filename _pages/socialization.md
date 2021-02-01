@@ -9,7 +9,7 @@ permalink: /challenge/socialization
 
 # Spend Time with a Young Child or Elder: 
 
-<img src="{{ "https://images.unsplash.com/photo-1558366361-557c7a4b31b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
+<img src="{{ "https://images.unsplash.com/photo-1581579439134-50af06bb2dd0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpbGQlMjBhbmQlMjBncmFuZG1hfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
 
 &nbsp;
 
@@ -33,6 +33,7 @@ Sharing life experiences with someone from a different age group can teach you v
 ***Note:
 We know that COVID may prevent this activity from being done safely depending on one’s living conditions, so we suggest trying to communicate through Skype, Zoom, Facetime, or a phone call!***
 
+<img src="{{ "https://images.unsplash.com/photo-1593100126453-19b562a800c1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hpbGQlMjBhbmQlMjBncmFuZG1hfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
 
 ### Evidence:
 Studies like this one from Stanford show that intergenerational relationships are mutually beneficial and important for society, allowing children from vulnerable populations to gain valuable guidance and older adults to experience the excitement of learning about new technology and trends [Parker (2016). *Older People Offer Resources that Children Need, Stanford Report Says*] 
