@@ -30,8 +30,8 @@ Sharing life experiences with someone from a different age group can teach you v
 
 
 
-### Note:
-We know that COVID may prevent this activity from being done safely depending on one’s living conditions, so we suggest trying to communicate through Skype, Zoom, Facetime, or a phone call!
+***Note:
+We know that COVID may prevent this activity from being done safely depending on one’s living conditions, so we suggest trying to communicate through Skype, Zoom, Facetime, or a phone call!***
 
 
 ### Evidence:
