@@ -172,7 +172,7 @@
   authors: Wellbeing team
   link:
     url: alone
-    display:  Online Social Gathering Resources
+    display:  Instructions for Spend Time Alone
   highlight: 1
 
 - title: "Cook a Nice Meal for Yourself"
@@ -186,10 +186,10 @@
   authors: Wellbeing team
   link:
     url: cooking
-    display:  Online Social Gathering Resources
+    display:  Recipe Suggestions and Instructions
   highlight: 1
   
-- title: "Socialize with an Elder or a Child"
+- title: "Socialize with an Elder or a Young Child"
   image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
   description: >+
     Time: 15-60m
@@ -200,7 +200,7 @@
   authors: Wellbeing team
   link:
     url: socialization
-    display:  Online Social Gathering Resources
+    display:  Suggestions and Instructions for Socializing with an Elder or a Young Child
   highlight: 1
 
 - title: "Spend Time with an Animal"
@@ -214,5 +214,5 @@
   authors: Wellbeing team
   link:
     url: animal
-    display:  Online Social Gathering Resources
+    display:  Ideas for Spending Time and Gaining Access to animals
   highlight: 1
