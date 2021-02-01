@@ -32,7 +32,7 @@ With the hustle of life meals often get forgotten about and have become more cen
 - <a href="https://www.thechunkychef.com/hearty-homemade-corn-chowder/" target="_blank">Corned Chowder</a>
 
 ### Evidence:
-Multiple peer-reviewed studies point towards cooking, baking, etc. as being associated with positive psychosocial outcomes. Food preparation is a cognitive, physical, and socioemotional process, benefitting both physical and mental wellbeing [Farmer, Touchton-Leonard, and Ross (2017) Psychosocial Benefits of Cooking Interventions: A Systematic Review]
+Multiple peer-reviewed studies point towards cooking, baking, etc. as being associated with positive psychosocial outcomes. Food preparation is a cognitive, physical, and socioemotional process, benefitting both physical and mental wellbeing [Farmer, Touchton-Leonard, and Ross (2017) *Psychosocial Benefits of Cooking Interventions: A Systematic Review*]
 
 &nbsp;
 &nbsp;
