@@ -204,7 +204,7 @@
   highlight: 1
 
 - title: "Spend Time with an Animal"
-  image: <img src="{{ "https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_Cautious_dog_q83f.png" }}" class="img-responsive" width="40%" style="float: left; margin: 3.0%; min-width: 100px" />
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_Cautious_dog_q83f.png
   description: >+
     Time: 10-120m
     <br/> 
