@@ -9,7 +9,7 @@ permalink: /challenge/alone
 
 # Spend Time Alone: 
 
-<img src="{{ "https://images.unsplash.com/photo-1558366361-557c7a4b31b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
+<img src="{{ "https://images.unsplash.com/photo-1524681051551-4d2ef100779c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDl8fGFsb25lfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" }}" class="img-responsive" width="20%" style="float: left; margin: 3.0%; min-width: 100px" />
 
 &nbsp;
 
