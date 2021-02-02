@@ -27,8 +27,8 @@ Many of us lead busy lives and interact with numerous people throughout the day.
     - Ask yourself what might be causing any negative emotions you are feeling?
     - Take time to do what makes YOU happy
 
-### Workout Videos (no equipment needed):
-Spending time alone can help people recharge and reflect. Studies have found that people feel less self-conscious when they are alone [Larson (2006). *The Emergence of Solitude as a Constructive Domain of Experience in Early Adolescence*].
+### Evidence:
+Spending time alone can help people recharge and reflect. Studies have found that people feel less self-conscious when they are alone [Larson (2006). <a href="https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8624.1997.tb01927.x" target="_blank">The Emergence of Solitude as a Constrictive Domain of Experience in Early Adolescence</a>].
 
 
 &nbsp;
