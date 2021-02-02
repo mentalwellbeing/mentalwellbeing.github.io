@@ -37,7 +37,7 @@ permalink: /challenge/blessings
 &nbsp;
 
 #### Evidence: 
-Studies have shown that counting blessings can increase wellbeing [Emmons & McCullough (2003). Journal of Personality and Social Psychology; Lyubomirsky et al. (2005). Review of General Psychology; Seligman et al. (2005). American Psychologist].
+Studies have shown that counting blessings can increase wellbeing [Review of General Psychology; Seligman et al. (2005). <a href="https://www.researchgate.net/publication/7701091_Positive_Psychology_Progress_Empirical_Validation_of_Interventions">Review of General Psychology</a>].
 
 &nbsp;
 &nbsp;
