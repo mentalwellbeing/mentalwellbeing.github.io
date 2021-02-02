@@ -64,7 +64,9 @@ permalink: /challenge/kindness_act
 &nbsp;
 
 #### Evidence: 
-Studies have shown that performing random acts of kindness for others boosts peer acceptance and wellbeing [Lyubomirsky et al. (2005). Review of General Psychology; Layous et al. (2012) PLoS ONE] and can reduce inflammatory-related patterns of gene expression (Nelson-Coffey, Fritz, Lyubomirsky, & Cole, 2017). Indeed, some researchers have argued that the cross-cultural effects of prosocial spending (e.g., donating money to charity) on well-being constitutes a psychological universal (Aknin et al., 2013). 
+Studies have shown that performing random acts of kindness for others boosts peer acceptance and wellbeing [<a href="https://journals.sagepub.com/doi/10.1037/1089-2680.9.2.111" target="_blank">Lyubomirsky et al. (2005). Review of General Psychology</a>; <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051380" target="_blank">Layous et al. (2012). PLoS ONE</a>] and can reduce inflammatory-related patterns of gene expression [<a href="https://pubmed.ncbi.nlm.nih.gov/28395185/" target="_blank">Nelson-Coffey, Fritz, Lyubomirsky, & Cole, 2017. Kindness in the blood: A randomized controlled trial of the gene regulatory impact of prosocial behavior</a>]. Indeed, some researchers have argued that the cross-cultural effects of prosocial spending (e.g., donating money to charity) on well-being constitutes a psychological universal [<a href="https://psycnet.apa.org/record/2013-04859-001" target="_blank">Aknin et al., 2013. Prosocial spending and well-being: Cross-cultural evidence for a psychological universal</a>].
+
+
 
 &nbsp;
 &nbsp;

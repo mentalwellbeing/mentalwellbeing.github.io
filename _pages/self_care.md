@@ -36,3 +36,12 @@ permalink: /challenge/self_care
 
 &nbsp;
 &nbsp;
+&nbsp;
+
+#### Evidence: 
+The <a href="https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html" target="_blank">CDC suggests</a> self-care as an important and effective way to cope with stress from the COVID pandemic. Additionally, <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2004.1483" target="_blank"> a study</a> of more than 1,500 healthcare workers during the SARS outbreak showed that those who engaged in self-care interventions, such as taking time and space for reflection, experienced improved mental health.
+
+
+
+&nbsp;
+&nbsp;
