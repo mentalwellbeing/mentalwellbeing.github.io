@@ -1,5 +1,5 @@
 - title: "Perform One Act of Kindness"
-  image: https://images.unsplash.com/photo-1584907797075-c5308ada266f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
+  image: /images/undraw_kindness.png
   description: >+
     Time: 20-60m+
     <br/> 
@@ -13,7 +13,7 @@
   highlight: 1
 
 - title: "Choose a Self-Care Resource for Dealing with COVID-19"
-  image: https://images.unsplash.com/photo-1487001175664-86de872e3cd6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=642&q=80
+  image: /images/undraw_selfcare.png
   description: >+
     Time: 10-60m
     <br/> 
@@ -28,7 +28,7 @@
   
   
 - title: "Be More Extraverted"
-  image: https://images.unsplash.com/photo-1542644499-f82093e97d34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  image: /images/undraw_extravert.png
   description: >+
     Time: up to 24hrs
     <br/> 
@@ -43,7 +43,7 @@
 
 
 - title: "Meditation"
-  image: https://images.unsplash.com/photo-1577253313708-cab167d2c474?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1622&q=80
+  image: /images/undraw_meditation.png
   description: >+
     Time: 5-25m
     <br/> 
@@ -58,7 +58,7 @@
 
 
 - title: "Exercise"
-  image: https://images.unsplash.com/photo-1571019613576-2b22c76fd955?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  image: /images/undraw_workout.png
   description: >+
    Time: 8-75m
    <br/> 
@@ -216,3 +216,60 @@
     url: animal
     display:  Ideas for Spending Time and Gaining Access to animals
   highlight: 1
+
+- title: "Get Out in Nature"
+  image: /images/undraw_nature.png
+  description: >+
+    Time: 15-40m
+    <br/> 
+    <br/> 
+    Go outside for a breath of fresh air.
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: nature
+    display:  Ideas for Going Outside
+  highlight: 1
+
+- title: "Take a Technology Break"
+  image: /images/undraw_techbreak.png
+  description: >+
+    Time: 2-24hrs
+    <br/> 
+    <br/> 
+    Take time away from technology to better yourself.
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: tech_break
+    display:  What To Do While Away From Technology
+  highlight: 1 
+
+- title: "Take Time Off from Work/Responsibilities"
+  image: /images/undraw_offwork.png
+  description: >+
+    Time: 2-24hrs
+    <br/> 
+    <br/> 
+    ... and do something you enjoy!
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: time_off
+    display:  Suggestions for Taking Time Off
+  highlight: 1 
+
+- title: "Reach Out to an Old Friend"
+  image: /images/undraw_reachout.png
+  description: >+
+    Time: 10-60m
+    <br/> 
+    <br/> 
+    Reaching out to someone you haven't talked to in a while. This can be in person or through technology.
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: reach_out
+    display:  Ways to Reconnect with an Old Friend
+  highlight: 1 
+

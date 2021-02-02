@@ -41,7 +41,9 @@ permalink: /challenge/meditation
 &nbsp;
 
 #### Evidence: 
-Evidence from NCCIH: Many studies have investigated meditation for different conditions, and there’s evidence that it may increase wellbeing, ease symptoms of anxiety and depression, help people with insomnia, reduce blood pressure as well as symptoms of irritable bowel syndrome and flare-ups in people who have had ulcerative colitis.  
+Evidence from <a href="https://www.nccih.nih.gov/health/meditation-in-depth" target="_blank">NCCIH</a>: Many studies have investigated meditation for different conditions, and there’s evidence that it may increase wellbeing, ease symptoms of anxiety and depression, help people with insomnia, reduce blood pressure as well as symptoms of irritable bowel syndrome and flare-ups in people who have had ulcerative colitis.  
+
+
 
 &nbsp;
 &nbsp;
