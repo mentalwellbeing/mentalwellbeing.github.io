@@ -36,7 +36,7 @@ For at least the next 8 minutes, write a letter to one of these individuals. Use
 &nbsp;
 
 #### Evidence: 
-Studies have shown that writing heart-fealt gratitude letters can increase wellbeing [Boehm et al. (2011). Cognition & Emotion; Lyubomirsky et al. (2011). Emotion; Layous et al. (2013). Journal of Cross-Cultural Psychology].
+Studies have shown that writing heart-fealt gratitude letters can increase wellbeing [Boehm et al. (2011). <a href="http://sonjalyubomirsky.com/wp-content/themes/sonjalyubomirsky/papers/BLS2011.pdf" target="_blank">Cognition and Emotion</a>; Lyubomirsky et al. (2011). <a href="http://sonjalyubomirsky.com/wp-content/themes/sonjalyubomirsky/papers/LDBS2011.pdf" target="_blank">Emotion</a>].
 
 &nbsp;
 &nbsp;

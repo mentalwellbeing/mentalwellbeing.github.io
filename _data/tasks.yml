@@ -73,7 +73,7 @@
   
   
 - title: "Gratitude Letter"
-  image: https://images.unsplash.com/photo-1499744937866-d7e566a20a61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_Letter_re_8m03.png
   description: >+
     Time: 8m+
     <br/> 
@@ -88,7 +88,7 @@
 
 
 - title: "Counting Blessings"
-  image: https://images.unsplash.com/photo-1548175551-1edaea7bbf0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1653&q=80
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_Imagination_re_i0xi.png
   description: >+
     Time: 5-15m
     <br/> 
@@ -103,7 +103,7 @@
  
  
 - title: "Best Possible Self"
-  image: https://images.unsplash.com/photo-1505742567374-19ca71c59408?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_sweet_home_dkhr.png
   description: >+
     Time: 10m+
     <br/> 
@@ -118,7 +118,7 @@
 
 
 - title: "Self-Affirmation "
-  image: https://images.unsplash.com/photo-1521033806519-27c6751acbc8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_dreamer_gxxi.png
   description: >+
     Time: 15-40m
     <br/> 
@@ -133,7 +133,7 @@
   
   
 - title: "Therapy"
-  image: https://images.unsplash.com/photo-1543269866-487350d6fa5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_getting_coffee_wntr.png
   description: >+
     Time: 20-60m
     <br/> 
@@ -148,7 +148,7 @@
   
   
 - title: "Social Support"
-  image: https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_hang_out_h9ud.png
   description: >+
     Time: 20-60m
     <br/> 
@@ -159,6 +159,62 @@
   link:
     url: social_support
     display:  Online Social Gathering Resources
+  highlight: 1
+
+- title: "Spend Time Alone"
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_Tree_swing_646s.png
+  description: >+
+    Time: up to 24 hrs
+    <br/> 
+    <br/> 
+    Take some time to spend soley with yourself.
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: alone
+    display:  Instructions for Spend Time Alone
+  highlight: 1
+
+- title: "Cook a Nice Meal for Yourself"
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_cooking_lyxy.png
+  description: >+
+    Time: 30-60m
+    <br/> 
+    <br/> 
+    Set time aside to cook yourself a meal you will enjoy.
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: cooking
+    display:  Recipe Suggestions and Instructions
+  highlight: 1
+  
+- title: "Socialize with an Elder or a Young Child"
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_gradma_wanr.png
+  description: >+
+    Time: 15-60m
+    <br/> 
+    <br/> 
+    Engage with an elder or a child in hopes of learning from each other.
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: socialization
+    display:  Suggestions and Instructions for Socializing with an Elder or a Young Child
+  highlight: 1
+
+- title: "Spend Time with an Animal"
+  image: https://raw.githubusercontent.com/abbydulski/mentalwellbeing.github.io/master/images/pics%20for%20code/undraw_Cautious_dog_q83f.png
+  description: >+
+    Time: 10-120m
+    <br/> 
+    <br/> 
+    Set aside time to spend with a furry friend.
+    <br/>
+  authors: Wellbeing team
+  link:
+    url: animal
+    display:  Ideas for Spending Time and Gaining Access to animals
   highlight: 1
 
 - title: "Get Out in Nature"
@@ -216,3 +272,4 @@
     url: reach_out
     display:  Ways to Reconnect with an Old Friend
   highlight: 1 
+

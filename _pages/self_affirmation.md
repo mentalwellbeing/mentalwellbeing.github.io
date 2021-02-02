@@ -49,7 +49,7 @@ Please select a value from the list provided below. Describe three or four perso
 &nbsp;
 
 #### Evidence: 
-Self affirmation has shown to reduce stress and improve wellbeing [Nelson et al. (2014). Personality and Social Psychology Bulletin; Cohen et al. (2000). Personality and Social Psychology Bulletin; Harris & Napper (2005). Personality and Social Psychology Bulletin; Sherman et al. (2009). Health Psychology].
+Self affirmation has shown to reduce stress and improve wellbeing [Nelson et al. (2014). <a href="http://sonjalyubomirsky.com/files/2012/09/Nelson-Fuller-Choi-Lyubomirsky-2014.pdf" target="_blank">Personality and Social Psychology Bulletin</a>; Cohen et al. (2000). <a href="https://journals.sagepub.com/doi/10.1177/01461672002611011" target="_blank">Personality and Social Psychology Bulletin</a>; Harris & Napper (2005). <a href="https://journals.sagepub.com/doi/10.1177/0146167205274694" target="_blank">Personality and Social Psychology Bulletin</a>;].
 
 &nbsp;
 &nbsp;

@@ -60,7 +60,7 @@ Please take a moment to think about your best possible health. Imagine that ever
 &nbsp;
 
 #### Evidence: 
-Studies have shown that writing about one’s best possible selve can enhance happiness [Layous et al. (2013). Journal of Happiness Studies; Boehm et al. (2011). Cognition & Emotion].
+Studies have shown that writing about one’s best possible selve can enhance happiness [Boehm et al. (2011).<a href="http://sonjalyubomirsky.com/wp-content/themes/sonjalyubomirsky/papers/BLS2011.pdf">Cognition and Emotion</a>].
 
 &nbsp;
 &nbsp;
